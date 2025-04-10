@@ -102,7 +102,7 @@ http://localhost:8080/OnlineFoodApp
 
 ---
 
-🖼️ ## Screenshots
+## 🖼️ Screenshots
 
 - 🏠 Home Page
 
@@ -111,7 +111,7 @@ http://localhost:8080/OnlineFoodApp
 - 🛠️ Admin Dashboard
 
 
-## ================= ⚙️ MySQL Database =================
+## ================= MySQL Database =================
 
  STEP 1: Open MySQL Command Prompt or MySQL Workbench
 
