@@ -16,7 +16,7 @@ The goal of this project is to develop a user-friendly online food ordering syst
 
 ---
 
-### Architecture - MVC Pattern
+### 🏗️ Architecture - MVC Pattern
 
 This project follows the **MVC (Model-View-Controller)** architecture:
 
