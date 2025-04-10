@@ -1,4 +1,4 @@
-# Online-Food_Application
+# 🍽️ Online Food Ordering Application
 
 A full-stack web application built using Java (JSP, Servlets), JDBC, and MySQL. The project allows users to browse and order food, while admins can manage menu items, categories, and orders.
 
@@ -6,42 +6,49 @@ The goal of this project is to develop a user-friendly online food ordering syst
 
 ---
 
-## Technologies Used
+## ![Technologies Used](images/tech-heading.png)
 
-- *Backend*: Java, JSP, Servlets, JDBC, POJO classes  
-- *Frontend*: HTML, CSS, JavaScript, Bootstrap  
-- *Database*: MySQL  
+### Technologies Used
 
----
-
-## Architecture
-
-This project follows the *MVC (Model-View-Controller)* architecture:  
-- *Model*: Java POJO classes representing data entities like User, FoodItem, Order, etc.  
-- *View*: JSP files used for rendering the frontend interface for users and admins.  
-- *Controller*: Servlets handling the business logic and routing requests between the view and model.  
+- **Backend**: Java, JSP, Servlets, JDBC, POJO classes  
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Database**: MySQL  
 
 ---
 
-## Roles
+## ![Architecture](images/architecture-heading.png)
 
-### User
+### Architecture - MVC Pattern
+
+This project follows the **MVC (Model-View-Controller)** architecture:
+
+- **Model**: Java POJO classes representing data entities like `User`, `FoodItem`, `Order`, etc.  
+- **View**: JSP files used for rendering the frontend interface for users and admins.  
+- **Controller**: Servlets handling the business logic and routing requests between the view and model.  
+
+---
+
+## ![Roles](images/roles-heading.png)
+
+### 👤 User
+
 - Register and login  
 - Browse food items by category  
 - Add items to cart  
 - Place orders  
 - View order history  
 
----
+### 🔐 Admin
 
-### Admin
 - Login securely  
 - Manage categories and food items (CRUD)  
 - View and manage customer orders  
 
 ---
 
-## Features
+## ![Features](images/features-heading.png)
+
+### ✨ Features
 
 - Login/Signup with session management  
 - Role-based access (admin and user dashboards)  
@@ -53,7 +60,9 @@ This project follows the *MVC (Model-View-Controller)* architecture:
 
 ---
 
-## Project Structure
+## ![Project Structure](images/structure-heading.png)
+
+### 📁 Project Structure
 
 OnlineFoodApp/
 │
@@ -101,14 +110,14 @@ http://localhost:8080/OnlineFoodApp
 
 ---
 
-## Screenshots
+🖼️ ## Screenshots
 
-- Home Page
-  
-- User Role
-  
-- Admin Role
-  
+- 🏠 Home Page
+
+- 👥 User Dashboard
+
+- 🛠️ Admin Dashboard
+
 
 ## ================= MySQL Database =================
 
