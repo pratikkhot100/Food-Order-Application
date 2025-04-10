@@ -103,6 +103,23 @@ http://localhost:8080/OnlineFoodApp
 
 ## Screenshots
 
-Home Page 
-User Role
-Admin Role
+- Home Page
+  
+- User Role
+  
+- Admin Role
+  
+
+## ================= MySQL Database =================
+
+ STEP 1: Open MySQL Command Prompt or MySQL Workbench
+
+ STEP 2: Login to the administrator user of MySql:
+	 ```mysql -u <username> -p``` (Enter Password if asked)
+
+ STEP 3: Copy paste and execute the MySQL Query from the following file:-
+ - Run the Sql Query From this file: [MySQL Database](https://github.com/pratikkhot100/Electronics-Store-ECommerce-Website/blob/main/mysql_database.sql) 
+
+## "Suggestions and project improvement ideas are welcomed!"
+
+- [Pratik Khot](https://github.com/pratikkhot100) 
