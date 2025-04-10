@@ -84,20 +84,20 @@ OnlineFoodApp/
 
 1. *Clone the Repository*
    ```bash
-   git clone https://github.com/yourusername/OnlineFoodApp.git
-   cd OnlineFoodApp
+    git clone https://github.com/yourusername/OnlineFoodApp.git
+    cd OnlineFoodApp
 
 2. Set up the MySQL Database
 
-Import the database.sql file into your MySQL server.
+     Import the database.sql file into your MySQL server.
 
-Update your database credentials in DBConnection.java.
+     Update your database credentials in DBConnection.java.
 
 3. Deploy on Apache Tomcat
 
-Build the project in your IDE.
+    Build the project in your IDE.
 
-Deploy the compiled WAR or project directory to the Tomcat webapps folder.
+    Deploy the compiled WAR or project directory to the Tomcat webapps folder.
 
 Start Tomcat and go to:
 http://localhost:8080/OnlineFoodApp
