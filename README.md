@@ -56,6 +56,7 @@ This project follows the **MVC (Model-View-Controller)** architecture:
 
 ### 📁 Project Structure
 
+```
 OnlineFoodApp/
 │
 ├── src/
@@ -67,14 +68,15 @@ OnlineFoodApp/
 │       │       ├── model/          # POJO classes (Models)
 │       │       └── utils/          # DB connection, helpers
 │       └── webapp/
-│           ├── css/
-│           ├── js/
+│           ├── css/                # Stylesheets
+│           ├── js/                 # JavaScript files
 │           ├── admin/              # Admin dashboard views
 │           ├── user/               # User dashboard views
-│           ├── images/
-│           ├── index.jsp
-│           └── login.jsp
+│           ├── images/             # Image assets
+│           ├── index.jsp           # Homepage
+│           └── login.jsp           # Login page
 └── README.md
+```
 
 ---
 
