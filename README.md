@@ -6,7 +6,7 @@ The goal of this project is to develop a user-friendly online food ordering syst
 
 ---
 
-## ![Technologies Used](images/tech-heading.png)
+## 🧰 (images/tech-heading.png)
 
 ### Technologies Used
 
@@ -15,8 +15,6 @@ The goal of this project is to develop a user-friendly online food ordering syst
 - **Database**: MySQL  
 
 ---
-
-## ![Architecture](images/architecture-heading.png)
 
 ### Architecture - MVC Pattern
 
@@ -27,8 +25,6 @@ This project follows the **MVC (Model-View-Controller)** architecture:
 - **Controller**: Servlets handling the business logic and routing requests between the view and model.  
 
 ---
-
-## ![Roles](images/roles-heading.png)
 
 ### 👤 User
 
@@ -46,8 +42,6 @@ This project follows the **MVC (Model-View-Controller)** architecture:
 
 ---
 
-## ![Features](images/features-heading.png)
-
 ### ✨ Features
 
 - Login/Signup with session management  
@@ -59,8 +53,6 @@ This project follows the **MVC (Model-View-Controller)** architecture:
 - MVC pattern for separation of concerns  
 
 ---
-
-## ![Project Structure](images/structure-heading.png)
 
 ### 📁 Project Structure
 
@@ -86,7 +78,7 @@ OnlineFoodApp/
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 1. *Clone the Repository*
    ```bash
@@ -119,7 +111,7 @@ http://localhost:8080/OnlineFoodApp
 - 🛠️ Admin Dashboard
 
 
-## ================= MySQL Database =================
+## ================= ⚙️ MySQL Database =================
 
  STEP 1: Open MySQL Command Prompt or MySQL Workbench
 
