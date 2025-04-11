@@ -124,7 +124,7 @@ http://localhost:8080/OnlineFoodApp
 
  - Contact
    
-  ![Screenshot 2025-04-10 195757](https://github.com/user-attachments/assets/0ecf3c85-1703-4456-8d2d-c2a83312fa43)
+   ![Screenshot 2025-04-10 195757](https://github.com/user-attachments/assets/0ecf3c85-1703-4456-8d2d-c2a83312fa43)
 
 - Login
   
