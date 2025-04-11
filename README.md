@@ -1,4 +1,4 @@
-# Online Food Ordering Application
+# 🍔 Online Food Ordering Application
 
 A full-stack web application built using Java (JSP, Servlets), JDBC, and MySQL. The project allows users to browse and order food, while admins can manage menu items, categories, and orders.
 
@@ -8,7 +8,7 @@ The goal of this project is to develop a user-friendly online food ordering syst
 
 ## 🧰 (images/tech-heading.png)
 
-### Technologies Used
+### 💻 Technologies Used
 
 - **Backend**: Java, JSP, Servlets, JDBC, POJO classes  
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
@@ -147,7 +147,7 @@ http://localhost:8080/OnlineFoodApp
   
 ---
 
-## ================= MySQL Database =================
+## 🍚 ================= MySQL Database =================
 
  STEP 1: Open MySQL Command Prompt or MySQL Workbench
 
@@ -159,6 +159,6 @@ http://localhost:8080/OnlineFoodApp
 
 ---
 
-## "Suggestions and project improvement ideas are welcomed!"
+## 📌 "Suggestions and project improvement ideas are welcomed!"
 
 - [Pratik Khot](https://github.com/pratikkhot100) 
