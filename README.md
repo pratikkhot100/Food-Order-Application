@@ -122,6 +122,8 @@ http://localhost:8080/OnlineFoodApp
 
   ![Screenshot 2025-04-10 195822](https://github.com/user-attachments/assets/a3f86263-7a20-40c3-8bac-5cea0adbb492)
 
+---
+
 ### 👥 User Dashboard
 
   ![Screenshot 2025-04-10 195849](https://github.com/user-attachments/assets/050dbcb5-be8d-4c5b-a838-5ea630841f06)
@@ -134,6 +136,7 @@ http://localhost:8080/OnlineFoodApp
 
   ![Screenshot 2025-04-10 200110](https://github.com/user-attachments/assets/2c8714f4-ca70-4fde-9421-1f7ef9aa7df2)
 
+---
 
 ### 🛠️ Admin Dashboard
 
