@@ -86,10 +86,16 @@ This project follows the **MVC (Model-View-Controller)** architecture:
  
  ![Screenshot 2025-04-14 185035](https://github.com/user-attachments/assets/9a93f232-f733-401d-be02-c2aca06bda4c)
 
+ - Menus
+   
  ![Screenshot 2025-04-14 185043](https://github.com/user-attachments/assets/3a1f2859-fb23-41a5-bb7b-90d0a0be9942)
 
+ - Profile
+   
  ![Screenshot 2025-04-14 185052](https://github.com/user-attachments/assets/aff9ef54-23d1-44d4-98a1-071c98f15bc2)
 
+ - Order History
+   
  ![Screenshot 2025-04-14 185104](https://github.com/user-attachments/assets/1fa07e6e-f5eb-4c16-b972-5ca7ea36d11c)
 
   ---
@@ -98,11 +104,19 @@ This project follows the **MVC (Model-View-Controller)** architecture:
 
  ![Screenshot 2025-04-14 184642](https://github.com/user-attachments/assets/6c86aa7b-b21f-42cc-ac06-c3db201e95c7)
 
+ - Add Food
+   
  ![Screenshot 2025-04-14 184659](https://github.com/user-attachments/assets/116d837e-b4e1-476c-af62-1f66d70dde56)
 
+ - All Order
+   
  ![Screenshot 2025-04-14 184710](https://github.com/user-attachments/assets/1fde895c-c8db-4e1f-9f87-feee354ac0f0)
 
+ - Menus
+   
  ![Screenshot 2025-04-14 184722](https://github.com/user-attachments/assets/79ae853d-815f-464a-b9f6-cba57d057d9b)
+
+ ![Screenshot 2025-04-14 184742](https://github.com/user-attachments/assets/3a430e7d-dc7d-498d-8b40-0f92fac391a1)
  
 ---
 
