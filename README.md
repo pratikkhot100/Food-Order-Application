@@ -1,4 +1,4 @@
-# 🍔 Online Food Ordering Application
+# 🍔 Food Ordering Application
 
 A full-stack web application built using Java (JSP, Servlets), JDBC, and MySQL. The project allows users to browse and order food, while admins can manage menu items, categories, and orders.
 
