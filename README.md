@@ -56,20 +56,34 @@ This project follows the **MVC (Model-View-Controller)** architecture:
 
 ## 🖼️ Screenshots
 
-![Screenshot 2025-04-14 184419](https://github.com/user-attachments/assets/2e3faab6-4a1f-40f0-b295-665f523d166a)
+ ### Home Page
+   
+ ![Screenshot 2025-04-14 184419](https://github.com/user-attachments/assets/2e3faab6-4a1f-40f0-b295-665f523d166a)
 
  ![Screenshot 2025-04-14 184436](https://github.com/user-attachments/assets/a0fe2305-4358-44f9-a472-e6e4207e0128)
 
  ![Screenshot 2025-04-14 184445](https://github.com/user-attachments/assets/9389c4d7-87d4-45f5-a6f1-c9edb027a367)
 
+ - Company
+   
  ![Screenshot 2025-04-14 184459](https://github.com/user-attachments/assets/a709bbe9-9ca7-46c9-9802-feff2fa00d25)
 
+ - Contact
+   
  ![Screenshot 2025-04-14 184510](https://github.com/user-attachments/assets/f85c1916-e127-475f-bb34-d16de67bd359)
 
+ - Login
+   
  ![Screenshot 2025-04-14 184526](https://github.com/user-attachments/assets/5340475c-84ac-46ca-850b-f6b75ba6e469)
  
+ - Registration
+   
  ![Screenshot 2025-04-14 184546](https://github.com/user-attachments/assets/9ad60134-55f6-468c-8617-c44383e2cf76)
 
+ ---
+ 
+ ### User Role
+ 
  ![Screenshot 2025-04-14 185035](https://github.com/user-attachments/assets/9a93f232-f733-401d-be02-c2aca06bda4c)
 
  ![Screenshot 2025-04-14 185043](https://github.com/user-attachments/assets/3a1f2859-fb23-41a5-bb7b-90d0a0be9942)
@@ -77,6 +91,10 @@ This project follows the **MVC (Model-View-Controller)** architecture:
  ![Screenshot 2025-04-14 185052](https://github.com/user-attachments/assets/aff9ef54-23d1-44d4-98a1-071c98f15bc2)
 
  ![Screenshot 2025-04-14 185104](https://github.com/user-attachments/assets/1fa07e6e-f5eb-4c16-b972-5ca7ea36d11c)
+
+  ---
+ 
+ ### Admin Role
 
  ![Screenshot 2025-04-14 184642](https://github.com/user-attachments/assets/6c86aa7b-b21f-42cc-ac06-c3db201e95c7)
 
