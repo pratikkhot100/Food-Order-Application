@@ -54,6 +54,40 @@ This project follows the **MVC (Model-View-Controller)** architecture:
 
 ---
 
+## 🖼️ Screenshots
+
+![Screenshot 2025-04-14 184419](https://github.com/user-attachments/assets/2e3faab6-4a1f-40f0-b295-665f523d166a)
+
+ ![Screenshot 2025-04-14 184436](https://github.com/user-attachments/assets/a0fe2305-4358-44f9-a472-e6e4207e0128)
+
+ ![Screenshot 2025-04-14 184445](https://github.com/user-attachments/assets/9389c4d7-87d4-45f5-a6f1-c9edb027a367)
+
+ ![Screenshot 2025-04-14 184459](https://github.com/user-attachments/assets/a709bbe9-9ca7-46c9-9802-feff2fa00d25)
+
+ ![Screenshot 2025-04-14 184510](https://github.com/user-attachments/assets/f85c1916-e127-475f-bb34-d16de67bd359)
+
+ ![Screenshot 2025-04-14 184526](https://github.com/user-attachments/assets/5340475c-84ac-46ca-850b-f6b75ba6e469)
+ 
+ ![Screenshot 2025-04-14 184546](https://github.com/user-attachments/assets/9ad60134-55f6-468c-8617-c44383e2cf76)
+
+ ![Screenshot 2025-04-14 185035](https://github.com/user-attachments/assets/9a93f232-f733-401d-be02-c2aca06bda4c)
+
+ ![Screenshot 2025-04-14 185043](https://github.com/user-attachments/assets/3a1f2859-fb23-41a5-bb7b-90d0a0be9942)
+
+ ![Screenshot 2025-04-14 185052](https://github.com/user-attachments/assets/aff9ef54-23d1-44d4-98a1-071c98f15bc2)
+
+ ![Screenshot 2025-04-14 185104](https://github.com/user-attachments/assets/1fa07e6e-f5eb-4c16-b972-5ca7ea36d11c)
+
+ ![Screenshot 2025-04-14 184642](https://github.com/user-attachments/assets/6c86aa7b-b21f-42cc-ac06-c3db201e95c7)
+
+ ![Screenshot 2025-04-14 184659](https://github.com/user-attachments/assets/116d837e-b4e1-476c-af62-1f66d70dde56)
+
+ ![Screenshot 2025-04-14 184710](https://github.com/user-attachments/assets/1fde895c-c8db-4e1f-9f87-feee354ac0f0)
+
+ ![Screenshot 2025-04-14 184722](https://github.com/user-attachments/assets/79ae853d-815f-464a-b9f6-cba57d057d9b)
+ 
+---
+
 ### 📁 Project Structure
 
 ```
@@ -77,35 +111,6 @@ OnlineFoodApp/
 │           └── login.jsp           # Login page
 └── README.md
 ```
-
----
-
-## 🚀 How to Run
-
-1. *Clone the Repository*
-   ```bash
-    git clone https://github.com/yourusername/OnlineFoodApp.git
-    cd OnlineFoodApp
-
-2. Set up the MySQL Database
-
-     Import the database.sql file into your MySQL server.
-
-     Update your database credentials in DBConnection.java.
-
-3. Deploy on Apache Tomcat
-
-    Build the project in your IDE.
-
-    Deploy the compiled WAR or project directory to the Tomcat webapps folder.
-
-Start Tomcat and go to:
-http://localhost:8080/OnlineFoodApp
-
----
-
-## 🖼️ Screenshots
-
 ---
 
 ## 🍚 ================= MySQL Database =================
