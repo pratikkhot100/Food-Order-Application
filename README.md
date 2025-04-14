@@ -56,7 +56,7 @@ This project follows the **MVC (Model-View-Controller)** architecture:
 
 ## 🖼️ Screenshots
 
- ### Home Page
+ ### 🏠 Home Page
    
  ![Screenshot 2025-04-14 184419](https://github.com/user-attachments/assets/2e3faab6-4a1f-40f0-b295-665f523d166a)
 
@@ -82,7 +82,7 @@ This project follows the **MVC (Model-View-Controller)** architecture:
 
  ---
  
- ### User Role
+ ### 👤 User Role
  
  ![Screenshot 2025-04-14 185035](https://github.com/user-attachments/assets/9a93f232-f733-401d-be02-c2aca06bda4c)
 
@@ -100,7 +100,7 @@ This project follows the **MVC (Model-View-Controller)** architecture:
 
   ---
  
- ### Admin Role
+ ### 🛠️ Admin Role
 
  ![Screenshot 2025-04-14 184642](https://github.com/user-attachments/assets/6c86aa7b-b21f-42cc-ac06-c3db201e95c7)
 
