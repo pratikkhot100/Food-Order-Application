@@ -20,7 +20,7 @@ The goal of this project is to develop a user-friendly online food ordering syst
 
 This project follows the **MVC (Model-View-Controller)** architecture:
 
-- **Model**: Java POJO classes representing data entities like `User`, `FoodItem`, `Order`, etc.  
+- **Model**: Java classes representing data entities like `User`, `FoodItem`, `Order`, etc.  
 - **View**: JSP files used for rendering the frontend interface for users and admins.  
 - **Controller**: Servlets handling the business logic and routing requests between the view and model.  
 
