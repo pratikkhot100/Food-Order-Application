@@ -157,6 +157,10 @@ OnlineFoodApp/
 
 ---
 
-## 📌 "Suggestions and project improvement ideas are welcomed!"
+ ## 📞 Contact Information
 
-- [Pratik Khot](https://github.com/pratikkhot100) 
+  🐙 GitHub: https://github.com/pratikkhot100
+
+  💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
+
+  📧 Email: pratikkhot1207@gmail.com
